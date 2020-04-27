@@ -47,10 +47,10 @@ run the script `eval.sh`. You can set the testing image folder and the number of
 
 -Description of PCCD dataset
 
-	> PCCD
-	>> raw.json # aesthetic comments and the other metadata.
-	>> images   # images whose file name corresponds to the "title" field in raw.json.
-	>> data_rearrange.py # Users can cherry-pick the metadata they're interested in to reformat the data.
+>PCCD
+>> raw.json # aesthetic comments and the other metadata.
+>> images   # images whose file name corresponds to the "title" field in raw.json.
+>> data_rearrange.py # Users can cherry-pick the metadata they're interested in to reformat the data.
 
 ## Contact 
 
