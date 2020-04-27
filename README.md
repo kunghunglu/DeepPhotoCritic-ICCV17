@@ -43,9 +43,9 @@ run the script `eval.sh`. You can set the testing image folder and the number of
 
 ### PCCD dataset
 
--Download link of PCCD dataset. [Google drive](https://drive.google.com/file/d/1hap2UGI9XV5XmxKOo54wZW30OXbqNyo8/view?usp=sharing)
+- Download link of PCCD dataset. [Google drive](https://drive.google.com/file/d/1hap2UGI9XV5XmxKOo54wZW30OXbqNyo8/view?usp=sharing)
 
--Description of PCCD dataset
+- Description of PCCD dataset
 
 	PCCD
         ├─────── raw.json # aesthetic comments and the other metadata.
