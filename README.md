@@ -54,5 +54,5 @@ run the script `eval.sh`. You can set the testing image folder and the number of
 
 ## Contact 
 
-Please feel free to leave suggestions or comments to Kung-Hung Lu (forsetideity@gmail.com), Kuang-Yu Chang (kuangyu@iis.sinica.edu.tw) and Chu-Song Chen (song@iis.sinica.edu.tw)
+Please feel free to leave suggestions or comments to [Kung-Hung Lu](https://kunghunglu.github.io/) (forsetideity@gmail.com), [Kuang-Yu Chang](https://www.iis.sinica.edu.tw/~kuangyu/) (kuangyu@iis.sinica.edu.tw) and [Chu-Song Chen](https://www.iis.sinica.edu.tw/pages/song/) (song@iis.sinica.edu.tw)
 
